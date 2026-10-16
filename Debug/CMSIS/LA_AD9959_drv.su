@@ -1,0 +1,12 @@
+../CMSIS/LA_AD9959_drv.c:1065:13:AD9959_SPI_Callback	32	static
+../CMSIS/LA_AD9959_drv.c:1090:23:AD9959_MakeCftw0	24	static
+../CMSIS/LA_AD9959_drv.c:1102:17:AD9959_GetCftw0Value	16	static
+../CMSIS/LA_AD9959_drv.c:1114:23:AD9959_MakeCpow0	24	static
+../CMSIS/LA_AD9959_drv.c:1132:16:AD9959_GetRegisterDataSize	16	static
+../CMSIS/LA_AD9959_drv.c:1180:17:AD9959_CalculateClockConfig	72	static
+../CMSIS/LA_AD9959_drv.c:1261:17:AD9959_MakeWriteFrame	32	static
+../CMSIS/LA_AD9959_drv.c:1334:17:AD9959_TransferBlocking	56	static
+../CMSIS/LA_AD9959_drv.c:1383:17:AD9959_TransferNonBlocking	40	static
+../CMSIS/LA_AD9959_drv.c:1462:13:AD9959_GetTransferResult	24	static
+../CMSIS/LA_AD9959_drv.c:1484:13:AD9959_SPI_TryAcquire	8	static
+../CMSIS/LA_AD9959_drv.c:1489:13:AD9959_SPI_Release	8	static

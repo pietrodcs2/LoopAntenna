@@ -1,0 +1,15 @@
+C:\PietroWorks\LoopAntenna\MK64F12_Project\drivers/fsl_clock.h:668:20:CLOCK_EnableClock	24	static
+C:\PietroWorks\LoopAntenna\MK64F12_Project\drivers/fsl_dspi.h:710:20:DSPI_IsMaster	24	static
+C:\PietroWorks\LoopAntenna\MK64F12_Project\drivers/fsl_dspi.h:726:20:DSPI_StartTransfer	16	static
+C:\PietroWorks\LoopAntenna\MK64F12_Project\drivers/fsl_dspi.h:737:20:DSPI_StopTransfer	16	static
+C:\PietroWorks\LoopAntenna\MK64F12_Project\drivers/fsl_dspi.h:782:20:DSPI_SetAllPcsPolarity	16	static
+C:\PietroWorks\LoopAntenna\MK64F12_Project\drivers/fsl_port.h:374:20:PORT_SetPinMux	24	static
+../source/SPIS_drv.c:67:13:SPIs_TransferCompleted	40	static
+../source/SPIS_drv.c:114:10:SPIs_Init	64	static
+../source/SPIS_drv.c:204:10:SPI_Bus_Configure	48	static
+../source/SPIS_drv.c:295:23:SPIs_GetBusLock	16	static
+../source/SPIS_drv.c:327:6:SPIs_TryAcquire	40	static
+../source/SPIS_drv.c:366:6:SPIs_Release	32	static
+../source/SPIS_drv.c:412:10:SPIs_TransferBlocking	40	static
+../source/SPIS_drv.c:471:10:SPIs_TransferNonBlocking	32	static
+../source/SPIS_drv.c:546:6:SPIs_InitPins	8	static
